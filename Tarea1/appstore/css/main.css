@@ -1,0 +1,40 @@
+body {
+    padding-top: 5rem;
+    
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+#selectCategoria{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.prueba-columna{
+    background-color: gray;
+}
+.card{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.card img{
+
+    box-sizing: border-box;
+    padding: 7px;
+    
+}
+.card h5,p{
+    margin-left:7px;
+}
+#calificacion i{
+    width: 10px;
+    padding: 7px;
+    
+    
+    
+}
+.card-mouse{
+    cursor: pointer;
+}
