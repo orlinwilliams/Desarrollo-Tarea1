@@ -50,7 +50,7 @@ var categorias = [];
   console.log(categorias);
 })();
 
-//Se crea la base de datos
-createDB('appstore','categorias',categorias)
+//Se crea la base de datos y el store
+createDB('categorias',categorias)
 
 

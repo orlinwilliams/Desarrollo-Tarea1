@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;500&display=swap');
+
 body {
     padding-top: 5rem;
+    font-family: 'Exo 2', sans-serif;
     
 }
 .starter-template {
@@ -11,12 +14,11 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
 }
-.prueba-columna{
-    background-color: gray;
-}
+
 .card{
     margin-top: 5px;
     margin-bottom: 5px;
+    border-radius:8px;
     
 }
 .card img{
@@ -37,4 +39,19 @@ body {
 }
 .card-mouse{
     cursor: pointer;
+}
+.color-star{
+    color: gold;
+}
+.color-star-red{
+    color: red;
+}
+.color-star-green{
+    color: green;
+}
+.icon-delete:hover{
+    color: red;
+}
+.fondo-card-orange:hover{
+    background-color: #ffb817;
 }
